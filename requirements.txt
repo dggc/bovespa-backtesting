@@ -1,0 +1,4 @@
+pandas
+numpy
+alpha_vantage
+matplotlib
